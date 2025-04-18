@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Murali Ganesh Seeram</h1>
+<h1 align="center">Hi 👋, I'm Jahnavi Mailapalli</h1>
 <h3 align="center">Aspiring Data Scientist | Data Analyst </h3>
 
 <p align="center">

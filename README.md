@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:jahnavimailapalli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="[[https://www.linkedin.com/in/seeram-murali-ganesh-9a6b62258/](https://www.linkedin.com/in/mailapalli-jahnavi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mailapalli-jahnavi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app(https://www.linkedin.com/in/mailapalli-jahnavi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
